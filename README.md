@@ -26,4 +26,3 @@
 3. Start loading your code.
 4. Once installed, unplug the [GPIO-0](image/01_pin.png) pin.
 5. Disconnect and reconnect the 3.3v cable of the Esp module.
-- And that's it my friend!
