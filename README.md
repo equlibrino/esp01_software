@@ -9,7 +9,8 @@
 1. Open the IDE then [File](image/preferences.png) > [Preferences](image/preferences2.png)
 2. Type "https://arduino.esp8266.com/stable/package_esp8266com_index.json" in the Additional Boards Manager URLs section.
 
-### Second stage
-- Tools> Board > [Boards Manager...](image/board_manager.png)
-- Type [esp8266](image/esp8266.png) and download the resulting clipboard.
-- Then again Tools > Board > esp8266 > [Generic ESP8266 Module](image/generic.png)
+### Second scene
+- Tools > Board > [Board Manager...](image/board_manager.png)
+- Type [esp8266](image/esp8266.png) and download the resulting dashboard.
+- Then select Tools > Motherboard > esp8266 > [Generic ESP8266 Module](image/generic.png) again.
+## We're done with what we need to do in the IDE settings! You are such a good man
