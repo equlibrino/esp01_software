@@ -3,3 +3,8 @@
 
 ># Wiring diagram - [Pins](image/01_pin.png)
 >![Untitled Sketch 3_bb](https://raw.githubusercontent.com/equlibrino/esp01_software/main/image/upload_esp01.png)
+
+### First base
+- We need to make minor adjustments in the Arduino IDE program.
+1. Open the IDE then [File](image/preferences.png) > [Preferences](image/preferences2.png)
+2. Type "https://arduino.esp8266.com/stable/package_esp8266com_index.json" in the Additional Boards Manager URLs section.
