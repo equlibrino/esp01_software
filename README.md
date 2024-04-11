@@ -1,4 +1,3 @@
-# esp01_software
 >This is really frustrating, I understand you very well, please calm down :)
 
 ># Wiring diagram - [Pins](image/01_pin.png)
