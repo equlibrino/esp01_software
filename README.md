@@ -20,7 +20,10 @@
 ## We're done with what we need to do in the IDE settings! You are such a good man.
 
 ### **Software installation phase**
-**There should not be any software inside the Arduino Uno board. [Do not install empty [software](image/code.png).](image/new_sketch.png)**
+**There should not be any software inside the Arduino Uno board.**
+**You must upload a blank code to the card;**
+- File > [New Sketch](image/new sketch.png)
+- [Code](code.png) you need to install.
 1. Power the Uno board.
 2. Unplug the 3.3v cable of the Esp module and plug it back in.<font color="red">The board is now in software installation mode!</font>
 3. Start uploading your code.
