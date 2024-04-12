@@ -19,11 +19,11 @@
 - Then select Tools > Motherboard > esp8266 > [Generic ESP8266 Module](image/generic.png) again.
 ## We're done with what we need to do in the IDE settings! You are such a good man.
 
-### **Software installation phase**
+### **Software installation phase;**
 **There should not be any software inside the Arduino Uno board.**
 **You must upload a blank code to the card;**
-- File > [New Sketch](image/new sketch.png)
-- [Code](code.png) you need to install.
+- File > [New Sketch](image/new_sketch.png)
+- [Code](image/code.png) you need to install.
 1. Power the Uno board.
 2. Unplug the 3.3v cable of the Esp module and plug it back in.<font color="red">The board is now in software installation mode!</font>
 3. Start uploading your code.
